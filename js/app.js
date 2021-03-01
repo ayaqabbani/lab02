@@ -7,7 +7,7 @@ alert("if you answered all the questions correctly you'll get a free cup of coff
 alert("are you ready?")
 
 //declaring my info
-let age = 22;
+let age = '22';
 let eyes = "brown";
 let hobby = "gaming";
 let country = "jordan";
