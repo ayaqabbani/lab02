@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    color: rgb(109, 42, 126);
+    border-style: double;color: rgb(109, 42, 126);
+   
+}
+img {
+    float: left;
+    width: 350px;
+    height: 600px;
+}
+h1 {
+    
+        text-align: center;
+        color: rgb(110, 15, 39);
+        border-style: double;color: rgb(110, 15, 39);
+}
+main {
+    border-style: double;color: rgb(68, 23, 61);
+
+}
+body {
+    background-color: rgba(231, 210, 185, 0.925);
+}
+p {
+    text-align: center;
+}
