@@ -7,14 +7,14 @@ alert("if you answered all the questions correctly you'll get a free cup of coff
 alert("are you ready?")
 
 //declaring my info
-let age = 22;
+let age = '22';
 let eyes = "brown";
 let hobby = "gaming";
 let country = "jordan";
 
 //collecting info (starting the game)
 let ageUserInput = prompt("try to guess how old am i ? hint *between 20-25");
-if (ageUserInput === age) {
+if (ageUserInput == age) {
     alert(" you're smart " + user + " keep going ");
 } else {
     alert("do i look like im that age?, sure not!");
