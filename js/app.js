@@ -14,7 +14,7 @@ let country = "jordan";
 
 //collecting info (starting the game)
 let ageUserInput = prompt("try to guess how old am i ? hint *between 20-25");
-if (ageUserInput === age) {
+if (ageUserInput == age) {
     alert(" you're smart " + user + " keep going ");
 } else {
     alert("do i look like im that age?, sure not!");
