@@ -1,7 +1,8 @@
 header {
     text-align: center;
     color: rgb(109, 42, 126);
-    border-style: double;color: rgb(109, 42, 126);
+    border-radius:
+     color rgb(109, 42, 126);
    
 }
 img {
@@ -14,13 +15,14 @@ h1 {
         text-align: center;
         color: rgb(110, 15, 39);
         border-style: double;color: rgb(110, 15, 39);
+        
 }
 main {
     border-style: double;color: rgb(68, 23, 61);
-
+    margin-left: 20px;
 }
 body {
-    background-color: rgba(231, 210, 185, 0.925);
+    background-image: linear-gradient(to right, rgb(171, 124, 180) , rgb(245, 237, 204));
 }
 p {
     text-align: center;
